@@ -14,7 +14,7 @@ html {
 
 body {
 	height: 100%;
-	font-family: tahoma, verdana;
+	font-family: Helvetica, sans-serif, tahoma;
 	scroll-behavior: smooth;
 	text-rendering: optimizeSpeed;
 	line-height: 1.5;
@@ -25,7 +25,6 @@ body {
 *,
 *::before,
 *::after {
-	content: '';
 	box-sizing: border-box;
 	letter-spacing: 0em;
 }
